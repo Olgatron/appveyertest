@@ -1,0 +1,1 @@
+nuget push gurka -ApiKey pqob2dbc5t3jh10g8uajqj3t -Source https://ci.appveyor.com/nuget/olgatron-hk7b7gmi3pbi/api/v2/package
