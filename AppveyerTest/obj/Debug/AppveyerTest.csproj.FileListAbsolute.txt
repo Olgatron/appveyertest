@@ -1,0 +1,6 @@
+C:\VSProjects\AppveyerTest\AppveyerTest\bin\Debug\AppveyerTest.exe.config
+C:\VSProjects\AppveyerTest\AppveyerTest\bin\Debug\AppveyerTest.exe
+C:\VSProjects\AppveyerTest\AppveyerTest\bin\Debug\AppveyerTest.pdb
+C:\VSProjects\AppveyerTest\AppveyerTest\obj\Debug\AppveyerTest.csprojResolveAssemblyReference.cache
+C:\VSProjects\AppveyerTest\AppveyerTest\obj\Debug\AppveyerTest.exe
+C:\VSProjects\AppveyerTest\AppveyerTest\obj\Debug\AppveyerTest.pdb
