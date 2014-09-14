@@ -10,5 +10,11 @@ namespace Tests
 		{
 			Assert.AreEqual("Hello World","Hello World");
 		}
+
+		[Test]
+		public void HelloWorldTest2()
+		{
+			Assert.AreEqual("Hello World", "Hello World");
+		}
     }
 }
