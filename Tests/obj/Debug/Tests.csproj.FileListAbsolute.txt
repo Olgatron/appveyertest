@@ -1,0 +1,7 @@
+C:\VSProjects\AppveyerTest\Tests\bin\Debug\Tests.dll
+C:\VSProjects\AppveyerTest\Tests\bin\Debug\Tests.pdb
+C:\VSProjects\AppveyerTest\Tests\bin\Debug\nunit.framework.dll
+C:\VSProjects\AppveyerTest\Tests\bin\Debug\nunit.framework.xml
+C:\VSProjects\AppveyerTest\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\VSProjects\AppveyerTest\Tests\obj\Debug\Tests.dll
+C:\VSProjects\AppveyerTest\Tests\obj\Debug\Tests.pdb
